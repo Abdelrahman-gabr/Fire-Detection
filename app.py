@@ -75,7 +75,7 @@ def preprocess_frame(img):
 # --- 4. LOAD MODEL ---
 @st.cache_resource
 def load_model():
-    return YOLO('C:/Users/gabra/Downloads/Fire-Detection/weights/best.pt')
+    return YOLO('weights/best.pt')
 
 model = load_model()
 
