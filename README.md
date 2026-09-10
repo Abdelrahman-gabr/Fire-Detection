@@ -4,8 +4,8 @@ Real-time Fire and smoke detection using yolov11n.pt
 
 An end-to-end Computer Vision system designed to detect fire and smoke in real time. Built with custom-trained **YOLO11** weights and a responsive **Streamlit** dashboard, the application handles image analysis, video file processing, continuous webcam streams, and automated emergency notification dispatch.
 
-🚀 **Live Interactive Demo:** [fire-detection-gabr.streamlit.app](https://fire-detection-gabr.streamlit.app/)
-    **Linkedin Post:** [Fire detection project post]()
+🚀 **Live Interactive Demo:** [fire-detection-gabr.streamlit.app](https://fire-detection-gabr.streamlit.app/)      
+    **Linkedin Post:** [Fire detection project post](https://github.com/Abdelrahman-gabr/Fire-Detection)
 
 ---
 
